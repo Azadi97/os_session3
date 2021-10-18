@@ -1,2 +1,2 @@
 # os_session
-this is for testing purpose only...
+attached excel sheet is the result of Open Science exercise based on vienna principles.
